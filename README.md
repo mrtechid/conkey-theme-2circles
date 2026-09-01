@@ -1,5 +1,6 @@
 # Screenshot
-![Screenshot at 1920x1080](2Circles.png)
+
+![Screenshot at 1920x1080](./2Circles.png)
 
 # Conky Theme 2Circles
 Required: conky , lua , cairo
